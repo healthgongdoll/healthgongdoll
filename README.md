@@ -16,7 +16,7 @@ May 2016 - Jul 2016 (Summer Internship)
 ### Computer Security Dev
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://healthgongdoll.github.io/)](https://healthgongdoll.github.io/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://healthgongdoll.github.io/)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=healthgongdoll)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
