@@ -17,7 +17,8 @@ May 2016 - Jul 2016 (Summer Internship)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://healthgongdoll.github.io/)](https://healthgongdoll.github.io/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=healthgongdoll)](https://github.com/anuraghazra/github-readme-stats)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=HellChangGongDoll&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![Solved.ac
+wayne0954](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 <!--
 **healthgongdoll/healthgongdoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
