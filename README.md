@@ -18,7 +18,7 @@ May 2016 - Jul 2016 (Summer Internship)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=healthgongdoll)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wayne0954)](https://solved.ac/wayne0954)
 
 <!--
 **healthgongdoll/healthgongdoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
