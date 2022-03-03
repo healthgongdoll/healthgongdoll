@@ -15,9 +15,9 @@ May 2016 - Jul 2016 (Summer Internship)
 
 ### Activities
 
-YU 2022 Hackathon 
+YU 2022 Hackathon - MUSIC-FOR-ALL
 
-CODEGATE 2022 Computer Security Competition
+CODEGATE 2022 Computer Security Competition - CTF CRYPTOGRAPHY
 
 
 ### Computer Security Dev
