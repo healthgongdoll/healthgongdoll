@@ -16,6 +16,7 @@ May 2016 - Jul 2016 (Summer Internship)
 ### Activities
 
 YU 2022 Hackathon 
+
 CODEGATE 2022 Computer Security Competition
 
 
