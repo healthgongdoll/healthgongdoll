@@ -13,6 +13,12 @@ May 2021 - Jul 2021 (Computer Security Internship)
 
 May 2016 - Jul 2016 (Summer Internship) 
 
+### Activities
+
+YU 2022 Hackathon 
+CODEGATE 2022 Computer Security Competition
+
+
 ### Computer Security Dev
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://healthgongdoll.github.io/)](https://healthgongdoll.github.io/)
 
