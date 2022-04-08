@@ -11,9 +11,13 @@ B.A., Spec. Hons. Computer Security
 
 May 2021 - Jul 2021 (Computer Security Internship)
 
+- Software Testing / Software Vulnerability / Software Audit
+
 ### Tutoring (E-Learning Application) 
 
 May 2016 - Jul 2016 (Summer Internship) 
+
+- Andorid Development 
 
 ### Activities
 
