@@ -11,7 +11,7 @@ B.A., Spec. Hons. Computer Security
 
 May 2022 - Sep 2022 (TA)
 
-- Teacher Assistance: Design and Analysis of Algorithms (EECS3101 3rd Year Course)
+- Teaching Assistant: Design and Analysis of Algorithms (EECS3101 3rd Year Course)
 
 ### Korea Consulting & Audit (주) 케이씨에이
 
