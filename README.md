@@ -7,6 +7,12 @@
 Lassonde School of Engineering,
 B.A., Spec. Hons. Computer Security 
 
+### York University 
+
+May 2022 - Sep 2022 (TA)
+
+- Teacher Assistance: Design and Analysis of Algorithms (EECS3101)
+
 ### Korea Consulting & Audit (주) 케이씨에이
 
 May 2021 - Jul 2021 (Computer Security Internship)
