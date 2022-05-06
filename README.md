@@ -2,7 +2,7 @@
 
 ## Jay Chung (Jae Young, Chung) 
 
-### York University (CANADA)
+### York University (Canada)
 
 Lassonde School of Engineering,
 B.A., Spec. Hons. Computer Security 
