@@ -2,6 +2,7 @@ name: TryHackMe Update Badge
 
 on:
   schedule:
+    # Make it run every 24 hour
     - cron: '0 0 * * *'
   workflow_dispatch:
 jobs:
@@ -10,7 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: healthgongdoll/tryhackme-badge-workflow@main
+      - uses: p4p1/tryhackme-badge-workflow@main
         with:
-          username: "hellchanggongdol"
+          # Replace with your tryhackme username
+          username: "<USERNAME>"
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
