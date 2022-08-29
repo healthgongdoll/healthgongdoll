@@ -39,7 +39,9 @@ CODEGATE 2022 Computer Security Competition - CTF CRYPTOGRAPHY
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wayne0954)](https://solved.ac/wayne0954)
 
-[![TRYHACKME](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/hellchanggongdol)
+[![TRYHACKME](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/hellchanggongdol) 
+![image](https://user-images.githubusercontent.com/79100627/187115867-77fd101d-5250-4467-b9ce-cba6deab9f22.png)
+
 <!--
 **healthgongdoll/healthgongdoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
