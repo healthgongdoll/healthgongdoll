@@ -11,7 +11,7 @@ B.A., Spec. Hons. Computer Security
 
 Sep 2022 - Dec 2022 (Computer Security Research Associate)
 
-Research Assistant in SecRAY Lab
+- Research Assistant in SecRAY Lab
 
 May 2022 - Sep 2022 (TA)
 
