@@ -9,6 +9,10 @@ B.A., Spec. Hons. Computer Security
 
 ### York University 
 
+Sep 2022 - Dec 2022 (Computer Security Research Associate)
+
+Research Assistant in SecRAY Lab
+
 May 2022 - Sep 2022 (TA)
 
 - Teaching Assistant: Design and Analysis of Algorithms (EECS3101 3rd Year Course)
