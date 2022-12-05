@@ -33,7 +33,7 @@ May 2016 - Jul 2016 (Summer Internship)
 
 YU 2022 Hackathon - MUSIC-FOR-ALL
 
-CODEGATE 2022 Computer Security Competition - CTF CRYPTOGRAPHY
+CODEGATE 2022 - CTF Crypto
 
 IEEE CNS Conference 2022 - Survey of Remote TLS Vulnerability Scanning Tools and Snapshot of TLS Use in Banking Sector
 
