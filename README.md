@@ -8,11 +8,6 @@ June 2023 - Current
 
 - Penetration Tester
 
-### York University (Canada)
-
-Lassonde School of Engineering,
-B.A., Spec. Hons. Computer Security 
-
 ### York University 
 
 Sep 2022 - Dec 2022 (Computer Security Research Associate)
@@ -47,6 +42,11 @@ CyberSci2022 - CTF Web, Vault
 
 TUCTF2022 - CTF Web
 
+
+### York University (Canada)
+
+Lassonde School of Engineering,
+B.A., Spec. Hons. Computer Security 
 
 ### Computer Security Dev
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://healthgongdoll.github.io/)](https://healthgongdoll.github.io/)
