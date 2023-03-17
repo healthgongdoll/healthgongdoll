@@ -2,6 +2,12 @@
 
 ## Jay Chung (Jae Young, Chung) 
 
+### Vumetric CyberSecurity 
+
+June 2023 - Current
+
+- Penetration Tester
+
 ### York University (Canada)
 
 Lassonde School of Engineering,
