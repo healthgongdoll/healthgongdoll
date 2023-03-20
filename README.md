@@ -10,6 +10,10 @@ June 2023 - Current
 
 ### York University 
 
+March 2023 - April 2023 (Computer Security Research Associate)
+
+- APT Tatics/ Mitre Attack Framework Research
+
 Sep 2022 - Dec 2022 (Computer Security Research Associate)
 
 - Research Assistant in SecRAY Lab
