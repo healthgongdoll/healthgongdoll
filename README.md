@@ -42,9 +42,7 @@ CODEGATE 2022 - CTF Crypto
 
 IEEE CNS Conference 2022 - Survey of Remote TLS Vulnerability Scanning Tools and Snapshot of TLS Use in Banking Sector
 
-CyberSci2022 - CTF Web, Vault
-
-TUCTF2022 - CTF Web
+![image](https://github.com/healthgongdoll/healthgongdoll/assets/79100627/f60ecc84-292b-40ee-a176-0bb45d3bd0c8)
 
 
 ### York University (Canada)
